@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.thecubestudio.dompling",
+    "sha256_cert_fingerprints": ["E6:6F:15:14:11:E1:E5:BD:96:0E:31:4D:0E:A3:A0:76:05:EF:42:0B:11:AF:E3:75:52:99:45:F4:D6:28:68:C2"]
+  }
+}]
